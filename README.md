@@ -1,0 +1,2 @@
+# PageRank implementation using PySpark RDDs
+This notebook shows the page rank implemetation from scratch using PySpark rdds. The input dataframe has the domestic airports souce and destination connectivity in the US between the years 2015 and 2018. The page rank is calculated based on the inbound connectivity to the airports. As expected, the major hubs in US are seen in the top 10 page rank list.
